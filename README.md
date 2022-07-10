@@ -40,13 +40,13 @@
 
 ##  Contact Me :telephone_receiver:	:speech_balloon: :bust_in_silhouette:
 <br>
-  <a href="https://www.linkedin.com/in/karla-delgado-613a32239/"><img  alt="Karla Delgado | Linkedin" width="24px" src="./multimedia/Linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/karla-delgado-613a32239/"><img  alt="Karla Delgado | Linkedin" width="24px" src="./multimedia/Linkedin.svg"/></a> &nbsp;&nbsp;
   <a href="https://twitter.com/karlavdelgadof">
     <img alt="Karla Delgado | Twitter" width="26px" src="./multimedia/Twitter.svg"/>
-  </a>
+  </a> &nbsp;&nbsp;
   <a href="mailto:karlavdelgadof@gmail.com">
     <img  alt="Karla Delgado | Gmail" width="26px" src="./multimedia/Gmail.svg"/>
-  </a>
+  </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/karlavdelgadof/">
     <img align="left" alt="Karla Delgado | Instagram" width="24px" src="./multimedia/Instagram.svg"/>
   </a> &nbsp;&nbsp;
