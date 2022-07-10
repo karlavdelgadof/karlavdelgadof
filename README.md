@@ -38,7 +38,7 @@
 
 <br>
 
-##  Contact Me :telephone_receiver:	speech_balloon: :bust_in_silhouette:
+##  Contact Me :telephone_receiver:	:speech_balloon: :bust_in_silhouette:
 <br>
   <a href="https://www.linkedin.com/in/karla-delgado-613a32239/"><img  alt="Karla Delgado | Linkedin" width="24px" src="./icons/Linkedin.svg"/></a>
   <a href="https://twitter.com/karlavdelgadof">
