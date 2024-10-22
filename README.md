@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="Avatar" style="border-radius: 50%" src="./multimedia/github-profile.gif" />
+<img align="center" alt="Avatar" style="border-radius: 50%" src="multimedia/Profile_pic_informal.JPG" />
 
 <br>
 
