@@ -1,8 +1,5 @@
 
 
-<img align="center" alt="Avatar" style="border-radius: 100%" src="multimedia/Profile_pic_informal.JPG" />
-
-<br>
 
 ## I'm a Full-Stack Developer in progress :soon: 	:nerd_face:
 
