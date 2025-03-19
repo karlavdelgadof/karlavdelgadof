@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="Avatar" style="border-radius: 50%" src="multimedia/Profile_pic_informal.JPG" />
+<img align="center" alt="Avatar" style="border-radius: 100%" src="multimedia/Profile_pic_informal.JPG" />
 
 <br>
 
