@@ -1,5 +1,3 @@
-# <img src="multimedia/Profile_pic_informal.JPG" alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #000;"/>
-
 # Hi there! I'm Karla Valentina Delgado 👋  
 
 🔹 **Full Stack Developer**  
