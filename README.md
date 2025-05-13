@@ -31,12 +31,6 @@
 
 ---
 
-## Education
-**Bachelor in Software Engineering** (Expected 2029)  
-Universidad Internacional del Ecuador
-
----
-
 ## Let’s Connect!  
 I'm always excited to collaborate and learn from others. Feel free to reach out if you're working on something interesting, want to chat tech, or just share ideas. Let's build something amazing together! 🚀
 
